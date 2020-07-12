@@ -1,0 +1,12 @@
+/home/shahir/shahirFolder/IoT/Q3/cls09/cls10/target/debug/deps/notify-03ea9fbb2c9ce9d9.rmeta: /home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/lib.rs /home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/inotify.rs /home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/null.rs /home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/poll.rs /home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/debounce/mod.rs /home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/debounce/timer.rs
+
+/home/shahir/shahirFolder/IoT/Q3/cls09/cls10/target/debug/deps/libnotify-03ea9fbb2c9ce9d9.rlib: /home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/lib.rs /home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/inotify.rs /home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/null.rs /home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/poll.rs /home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/debounce/mod.rs /home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/debounce/timer.rs
+
+/home/shahir/shahirFolder/IoT/Q3/cls09/cls10/target/debug/deps/notify-03ea9fbb2c9ce9d9.d: /home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/lib.rs /home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/inotify.rs /home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/null.rs /home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/poll.rs /home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/debounce/mod.rs /home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/debounce/timer.rs
+
+/home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/lib.rs:
+/home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/inotify.rs:
+/home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/null.rs:
+/home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/poll.rs:
+/home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/debounce/mod.rs:
+/home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/debounce/timer.rs:

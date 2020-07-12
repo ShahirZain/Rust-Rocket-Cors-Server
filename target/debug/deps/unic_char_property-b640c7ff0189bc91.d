@@ -1,0 +1,10 @@
+/home/shahir/shahirFolder/IoT/Q3/cls09/cls10/target/debug/deps/unic_char_property-b640c7ff0189bc91.rmeta: /home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/lib.rs /home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/pkg_info.rs /home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/property.rs /home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/range_types.rs /home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/macros.rs /home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/tables.rs
+
+/home/shahir/shahirFolder/IoT/Q3/cls09/cls10/target/debug/deps/unic_char_property-b640c7ff0189bc91.d: /home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/lib.rs /home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/pkg_info.rs /home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/property.rs /home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/range_types.rs /home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/macros.rs /home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/tables.rs
+
+/home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/lib.rs:
+/home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/pkg_info.rs:
+/home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/property.rs:
+/home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/range_types.rs:
+/home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/macros.rs:
+/home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-property-0.7.0/src/tables.rs:

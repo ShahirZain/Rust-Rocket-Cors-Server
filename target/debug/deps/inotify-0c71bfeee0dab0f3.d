@@ -1,0 +1,12 @@
+/home/shahir/shahirFolder/IoT/Q3/cls09/cls10/target/debug/deps/inotify-0c71bfeee0dab0f3.rmeta: /home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/lib.rs /home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/events.rs /home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/fd_guard.rs /home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/inotify.rs /home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/util.rs /home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/watches.rs
+
+/home/shahir/shahirFolder/IoT/Q3/cls09/cls10/target/debug/deps/libinotify-0c71bfeee0dab0f3.rlib: /home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/lib.rs /home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/events.rs /home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/fd_guard.rs /home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/inotify.rs /home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/util.rs /home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/watches.rs
+
+/home/shahir/shahirFolder/IoT/Q3/cls09/cls10/target/debug/deps/inotify-0c71bfeee0dab0f3.d: /home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/lib.rs /home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/events.rs /home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/fd_guard.rs /home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/inotify.rs /home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/util.rs /home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/watches.rs
+
+/home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/lib.rs:
+/home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/events.rs:
+/home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/fd_guard.rs:
+/home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/inotify.rs:
+/home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/util.rs:
+/home/shahir/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/watches.rs:
