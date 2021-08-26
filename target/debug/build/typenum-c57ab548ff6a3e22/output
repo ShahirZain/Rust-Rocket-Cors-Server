@@ -1,2 +1,0 @@
-cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/shahir/shahirFolder/IoT/Q3/cls09/cls10/target/debug/build/typenum-c57ab548ff6a3e22/out/consts.rs
-cargo:rustc-env=TYPENUM_BUILD_OP=/home/shahir/shahirFolder/IoT/Q3/cls09/cls10/target/debug/build/typenum-c57ab548ff6a3e22/out/op.rs
